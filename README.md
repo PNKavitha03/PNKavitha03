@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋 I'm Kavitha
 
-<!--
-**PNKavitha03/PNKavitha03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student  
+💻 Learning Python & Java  
+🚀 Aspiring Software Developer  
+📚 Solving LeetCode Problems  
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Python
+- Java
+- C Programming
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- Library Management System
+- LeetCode Solutions
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PNKavitha03&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PNKavitha03&layout=compact)
