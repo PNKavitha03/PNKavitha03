@@ -2,13 +2,14 @@
 
 🎓 B.Tech Student  
 💻 Learning Python & Java  
-🚀 Aspiring Software Developer  
+🚀 Aspiring Data Analyst
 📚 Solving LeetCode Problems  
 
 ## 🛠️ Skills
 - Python
 - Java
-- C Programming
+- Exel
+- Sql
 - Git & GitHub
 
 ## 📌 Projects
