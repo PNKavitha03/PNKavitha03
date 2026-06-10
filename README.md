@@ -13,7 +13,17 @@
 - Git & GitHub
 
 ## 📌 Projects
+
 - Library Management System
+
+- Text Encryption Toolkit
+  - Python-based encryption toolkit
+  - Caesar Cipher Encryption & Decryption
+  - ROT13 Cipher
+  - Reverse Text
+  - Letter Frequency Counter
+  - Encryption History Manager
+
 - LeetCode Solutions
 
 ## 📊 GitHub Stats
