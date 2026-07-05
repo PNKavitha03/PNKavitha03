@@ -9,7 +9,7 @@
 - Python
 - Java
 - Exel
-- Sql
+- Mysql
 - Git & GitHub
 
 ## 📌 Projects
